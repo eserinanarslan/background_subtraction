@@ -1,0 +1,11 @@
+#This is the statistical file we use to compare each method.
+#Only the lines starting with "cm" are importants.
+#cm NbTruePositive NbFalsePositive NbFalseNegative NbTrueNegative NbErrorShadow
+
+
+
+cm overall 0 0 0 0 0
+
+
+
+			Recall			Specificity		FPR				FNR				PBC				Precision		FMeasure
